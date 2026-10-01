@@ -1,0 +1,23 @@
+{
+  "name": "traditional-healthcare-csp",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently \"vite\" \"node server/server.js\"",
+    "dev:frontend": "vite",
+    "dev:backend": "node server/server.js",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "concurrently": "latest",
+    "express": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "vite": "latest",
+    "cors": "latest"
+  },
+  "devDependencies": {}
+}

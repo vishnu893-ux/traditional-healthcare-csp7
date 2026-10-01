@@ -1,0 +1,32 @@
+[
+  {
+    "id": "HC-1790847472461",
+    "createdAt": "2026-10-01T09:37:52.461Z",
+    "customer": {
+      "name": "Vishnu vardhan Naidu",
+      "phone": "09949414621",
+      "address": "chennapothulavandla Palli,Brahmana Yerragudi\nLakkireddy Palli,Annamayya"
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "Turmeric",
+        "category": "Herbs",
+        "icon": "🌼",
+        "price": 120,
+        "unit": "100 g",
+        "tradition": "Traditionally used in household food and care practices.",
+        "uses": [
+          "Turmeric paste for minor wounds is documented in the CSP.",
+          "Used as a kitchen ingredient in traditional practices.",
+          "The project demonstrated turmeric-based practices during awareness sessions."
+        ],
+        "howTo": "The CSP describes turmeric paste for minor wounds and turmeric milk as examples discussed during awareness activities. Follow local guidance and seek professional care for significant wounds or illness.",
+        "safety": "Traditional use does not establish that a remedy treats or cures disease. Avoid using home remedies as a substitute for professional medical care.",
+        "image": "/product-images/turmeric.jpg",
+        "qty": 1
+      }
+    ],
+    "total": 120
+  }
+]
